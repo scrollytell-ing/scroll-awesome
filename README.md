@@ -29,6 +29,10 @@ Inspired by [awesome-web-animation](https://github.com/sergey-pimenov/awesome-we
 - [Motus](https://github.com/alexcambose/motus) - Animation library that mimics CSS keyframes when scrolling.
 - [Sal](https://github.com/mciastek/sal) - Performance focused, lightweight scroll animation library.
 
+- [sasha.works](sasha.works) - portfolio, curate lists and display items through sticky scroll
+- [romalevin.com](romalevin.com) - portfolio, color transition depending on section theme
+- [bymayo.co.uk](bymayo.co.uk) - portfolio, text's opacity/z-index varies to evoke multiple scroll effects
+
 
 ## Scrollytelling
 
